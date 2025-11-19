@@ -4,6 +4,7 @@ Este proyecto lleva por título Algoritmos para el Cálculo de Testores Típicos
 
 
 
+
 Instrucciones de Instalación y Ejecución
 
 Este proyecto está desarrollado íntegramente en C++ y no requiere la instalación de librerías o dependencias adicionales. Para su ejecución, solo se necesita un compilador de C++ y se recomienda usar un entorno de desarrollo integrado (IDE) como Dev-C++ o Visual Studio Code.
@@ -11,5 +12,7 @@ Este proyecto está desarrollado íntegramente en C++ y no requiere la instalaci
 El código fuente se encuentra en tres archivos independientes. El archivo matrices_booleanas.cpp contiene los Ejercicios 1, 2 y 3 (Generación de Matrices, Algoritmo YYC y Algoritmo BT), y está diseñado con una interfaz amigable. Este archivo debe ser compilado y ejecutado primero. El archivo Proyecto Ej.4Final.cpp contiene la implementación del Ejercicio 4, y el archivo Proyecto Ej. 5 GGEZ (1).cpp contiene el Ejercicio 5 (Operadores y Experimentos). Los archivos de los ejercicios 4 y 5 deben ser compilados y ejecutados de forma independiente.
 
 
+
 Estructura de Archivos y Integrantes
+
 Los archivos fuente son: matrices_booleanas.cpp, Proyecto Ej.4Final.cpp y Proyecto Ej. 5 GGEZ (1).cpp, además del archivo de configuración .gitignore y este README.md.
